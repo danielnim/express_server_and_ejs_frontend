@@ -57,3 +57,7 @@ Commit ID (hash) o‘zgaradi
 1️⃣ Commit message xato bo‘lsa
 2️⃣ Biror fayl qo‘shishni unutgan bo‘lsang
 3️⃣ Kichkina o‘zgarishlarni alohida commit qilmaslik uchun
+
+
+git reset --hard
+oxirgi commitni tiklaydi yangi kodlar o'chadi
