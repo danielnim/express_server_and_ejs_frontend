@@ -2,10 +2,7 @@ Git projectni boshlash
 git init
 
 Fayllar holati
-git status
-
-O‘zgargan joylarni ko‘rish
-git diff
+git status 
 
 Bitta fayl
 git add index.js
@@ -26,7 +23,7 @@ git remote -v
 ⬆️ Push / ⬇️ Pull
 Birinchi push
 git push -u origin main
-
+-u - buni birmatra yozib kiritib yuborsa git pull git push qilib ketaversa boladi branchni yozmasdan
 Keyingi push
 git push
 
